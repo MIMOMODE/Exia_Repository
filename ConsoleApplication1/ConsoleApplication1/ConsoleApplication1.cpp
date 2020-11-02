@@ -1,6 +1,6 @@
 #include <iostream>
 #include <math.h>
-
+// maj Hmida
 using namespace std;
 
 
